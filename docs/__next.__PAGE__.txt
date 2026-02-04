@@ -1,0 +1,10 @@
+1:"$Sreact.fragment"
+2:I[56177,["/online-games-portal/_next/static/chunks/1aa89d63c66963b8.js"],"ClientPageRoot"]
+3:I[73386,["/online-games-portal/_next/static/chunks/a6977c5ffcd17b54.js","/online-games-portal/_next/static/chunks/f0a4b82589f4a99e.js","/online-games-portal/_next/static/chunks/693fa5bf6def2a58.js","/online-games-portal/_next/static/chunks/b1f261f868845879.js"],"default"]
+6:I[99548,["/online-games-portal/_next/static/chunks/1aa89d63c66963b8.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+:HL["/online-games-portal/_next/static/chunks/dee80f9ba152165f.css","style"]
+0:{"buildId":"IkB-RW9QycfwvUNDKoKwy","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","link","0",{"rel":"stylesheet","href":"/online-games-portal/_next/static/chunks/dee80f9ba152165f.css","precedence":"next"}],["$","script","script-0",{"src":"/online-games-portal/_next/static/chunks/f0a4b82589f4a99e.js","async":true}],["$","script","script-1",{"src":"/online-games-portal/_next/static/chunks/693fa5bf6def2a58.js","async":true}],["$","script","script-2",{"src":"/online-games-portal/_next/static/chunks/b1f261f868845879.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
