@@ -1,3 +1,0 @@
-:HL["/online-games-portal/_next/static/chunks/dc218ac47e2bad62.css","style"]
-:HC["/",""]
-0:{"buildId":"IkB-RW9QycfwvUNDKoKwy","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"game-battleship","paramType":null,"paramKey":"game-battleship","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
