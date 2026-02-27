@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[97367,["/online-games-portal/_next/static/chunks/f795227749618145.js"],"ViewportBoundary"]
+3:I[97367,["/online-games-portal/_next/static/chunks/f795227749618145.js"],"MetadataBoundary"]
+4:"$Sreact.suspense"
+5:I[27201,["/online-games-portal/_next/static/chunks/f795227749618145.js"],"IconMark"]
+0:{"buildId":"8JFtLNs-U2WH0GvZ6UcP2","rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Посети — классика настольных игр по сети"}],["$","meta","1",{"name":"description","content":"Играйте против компьютера или игроков в локальной сети"}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.84ace3f1.ico","sizes":"16x16","type":"image/x-icon"}],["$","link","3",{"rel":"icon","href":"/icon.svg?icon.d31eaea8.svg","sizes":"any","type":"image/svg+xml"}],["$","link","4",{"rel":"apple-touch-icon","href":"/apple-icon.png?apple-icon.883b3501.png","sizes":"1024x1024","type":"image/png"}],["$","$L5","5",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
