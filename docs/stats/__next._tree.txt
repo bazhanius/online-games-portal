@@ -1,3 +1,0 @@
-:HL["/online-games-portal/_next/static/chunks/238497769f52ad3a.css","style"]
-:HC["/",""]
-0:{"buildId":"fioxPRsAP8TVXguV7wvxC","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"stats","paramType":null,"paramKey":"stats","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
